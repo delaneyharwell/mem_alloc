@@ -1,5 +1,4 @@
 //Delaney Harwell
-//74084784
 #include <stdbool.h>
 #include <stdio.h>
 #include <string.h>
